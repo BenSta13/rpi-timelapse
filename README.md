@@ -1,7 +1,7 @@
 rpi-timelapse
 =============
 
-A timelapse camera controller for Raspberry Pi and Canon EOS 350d (should work with any camera supported by `gphoto2` with minor tweaks), with an optional UI and controls on the Adafruit LCD Pi plate.
+A timelapse camera controller for Raspberry Pi and Canon EOS 550d (that's the one I used, should work with 350D and any camera supported by `gphoto2` with minor tweaks). (I took out the code for the optional UI and controls on the Adafruit LCD Pi plate.)
 
 
 Installation
